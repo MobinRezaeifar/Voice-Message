@@ -54,7 +54,7 @@ export default App;
 
 ## 🔗 Links
 [![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/voice-message)
-[![github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MobinRezaeifar)
+[![github](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MobinRezaeifar)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mobinRezaeifar)
 
 
