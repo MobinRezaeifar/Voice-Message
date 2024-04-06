@@ -53,10 +53,8 @@ export default App;
 
 ## 💰 Donate
 If you find this project helpful, you can support its development by donating Bitcoin:
-
-[![bc1qc640he5efwezsp864c5nt70uwhttd65sgamdr3](https://img.shields.io/badge/Donate-Bitcoin-yellow.svg)](bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa)
-Your contributions are greatly appreciated!
-
+![2024-04-06_08-53-59](https://github.com/MobinRezaeifar/Voice-Message/assets/128358943/078a6a39-0c23-47e5-b098-c734fb9a5cfb)
+bc1qc640he5efwezsp864c5nt70uwhttd65sgamdr3
 
 ## 🔗 Links
 [![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/voice-message)
